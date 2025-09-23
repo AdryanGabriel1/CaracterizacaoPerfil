@@ -19,4 +19,4 @@
 </div>
 
 ## Troféus do GitHub 🏆
- <img height="150em" src="https://github-profile-trophy.vercel.app/?username=ganze13&theme=onedark">
+ <img height="150em" src="https://github-profile-trophy.vercel.app/?username=Adryan&theme=onedark">
