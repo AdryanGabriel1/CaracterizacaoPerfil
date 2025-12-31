@@ -1,5 +1,5 @@
 # Olá! Bem vindo ao meu profile.
-Sou Adryan.Desenvolvedor Brasileiro em Desenvolvimento.
+•Sou Adryan.Desenvolvedor Brasileiro em Desenvolvimento.
 <hr><br>
 
 <!-- Div (1 e 2) de leitura de codigo e indentificação de tecnologias usadas ( Não ta funcionando no gitHub de ninguém) -->
@@ -19,7 +19,7 @@ Sou Adryan.Desenvolvedor Brasileiro em Desenvolvimento.
 
 <!-- Div de Titulo ( Da para melhorar depois sem mexer em nada )-->     
 <div>
-  <p> TECNOLOGIAS E FERRAMENTAS </p>
+  <p> •TECNOLOGIAS E FERRAMENTAS </p>
 </div>
 <br>
 
@@ -32,7 +32,7 @@ Sou Adryan.Desenvolvedor Brasileiro em Desenvolvimento.
 
 <!-- Div de Titulo ( Da para melhorar depois sem mexer em nada )--> 
 <div>
-  <p> CONTATOS </p>
+  <p> •CONTATOS </p>
 </div>
 <br>
 
