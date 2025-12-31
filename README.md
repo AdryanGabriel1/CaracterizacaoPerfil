@@ -13,7 +13,10 @@ Desenvolvedor em Desenvolvimento.
   <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=AdryanGabriel1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-##
+##Tecnologias
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+</div>
 
 <div>
   
