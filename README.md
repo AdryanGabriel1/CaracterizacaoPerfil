@@ -1,6 +1,6 @@
-## Olá! Bem vindo ao meu profile.
-Sou Adryan Gabriel.
-Desenvolvedor em Desenvolvimento.
+# Olá! Bem vindo ao meu profile.
+##Sou Adryan.Desenvolvedor Brasileiro em Desenvolvimento.
+
 
 <div align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=AdryanGabriel1&show_icons=true&theme=algolia"/>
@@ -13,7 +13,9 @@ Desenvolvedor em Desenvolvimento.
   <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=AdryanGabriel1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-##Tecnologias e Ferramentas
+Tecnologias e Ferramentas
+
+
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="30" height="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" width="30" height="30"/>
@@ -34,6 +36,3 @@ Desenvolvedor em Desenvolvimento.
   </a>
   
 </div>
-
-## Troféus do GitHub 🏆
-<img height="150em" src="https://github-profile-trophy.vercel.app/?username=AdryanGabriel1&theme=onedark"/>
