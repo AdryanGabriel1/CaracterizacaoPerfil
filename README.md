@@ -1,8 +1,8 @@
 **AdryanGabriel1/AdryanGabriel1**
 ## Hahay 👋
-- 🔭 Atualmente estou a procura de serviços ...
-- 🌱 Atu
-- 😄 Pronomes: ele/dele
+
+Olá, Sou Adryan Gabriel.
+Desenvolvedor em Desenvolvimento.
 
 <div align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=AdryanGabriel1&show_icons=true&theme=algolia"/>
